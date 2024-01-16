@@ -1,0 +1,59 @@
+:root{
+    --c10: #F2F2F2;
+    --c20: #E6E6E6;
+    --c30: #CCCCCC;
+    --c40: #B3B3B3;
+    --c50: #999999;
+    --c60: #808080;
+    --c70: #666666;
+    --c80: #4D4D4D;
+    --c90: #333333;
+    --c100: #1A1A1A;
+    --no-color: #d9d9d900;
+    --indesign: #B52A40;
+    --photoshop: #299EDF;
+    --illustrator: #E48902;
+    --after-effect: #00005B;
+    --black: #000;
+    --white: #fff;
+    --primary: #121C26;
+    --Secondary: #A26F48;
+}
+html{
+    width: 100%;
+    height: 100%;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-image: url(https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?cs=srgb&dl=pexels-pixabay-36717.jpg&fm=jpg);
+    background-size: cover;
+}
+main{
+    width: 100%;
+    height: 100%!important;
+}
+nav{
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.26);
+    padding: 0!important;
+    text-align: center;
+    justify-content: center;
+}
+ul.side-nav{
+    padding: 0;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+    
+}
+.nav-items{
+    font-size: 20px;
+    margin: 24px 0px 24px 0px;
+    list-style: none;
+    padding: 8px 13px ;
+    background-color: var(--white);
+    border-radius: 100px;
+    
+    
+}

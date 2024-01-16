@@ -55,5 +55,7 @@ ul.side-nav{
     background-color: var(--white);
     border-radius: 100px;
     
-    
+}
+div.content{
+    color: var(--white);
 }
